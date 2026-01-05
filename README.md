@@ -1,4 +1,4 @@
-# Minecraft Bedrock Pack Manager
+# Minecraft Bedrock Server Pack Manager
 
 A utility to automatically scan and sync your Minecraft Bedrock world's resource and behavior packs.
 
