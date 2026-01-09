@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# Minecraft Bedrock Server Pack Manager
-=======
 # Minecraft Self-hosted Bedrock Server Pack Manager
->>>>>>> Stashed changes
 
 A utility to automatically scan and sync your Minecraft Bedrock world's resource and behavior packs.
 
